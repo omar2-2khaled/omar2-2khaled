@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=118814&center=true&vCenter=true&random=false&width=800&height=100&lines=I'm+MERN+stack+developer;Senior+Computer+Science+Student" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=118814&center=true&vCenter=true&random=false&width=800&height=100&lines=I'm+Node.js+developer;Senior+Computer+Science+Student" alt="Typing SVG" /></a>
 <br>
 - 🔭 I’m currently working on my graduation project LearnIT (e-leaning application)
 
@@ -7,7 +7,7 @@
 
 - 🏫 I am a senior CS student at [Faculty of Computers & Informatics](https://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/)
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **omar96136khalid@gmail.com**
 
