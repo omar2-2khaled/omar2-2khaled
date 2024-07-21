@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=118814&center=true&vCenter=true&random=false&width=800&height=100&lines=I'm+Node.js+developer;Senior+Computer+Science+Student" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=118814&center=true&vCenter=true&random=false&width=800&height=100&lines=I'm+Node.js+developer;" alt="Typing SVG" /></a>
 <br>
 - 🔭 I’m currently working on my graduation project LearnIT (e-leaning application)
 
